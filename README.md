@@ -2,6 +2,6 @@
 
 ## Environment Setup
 * Created from project template.
-* Python version: 3.9.x
-* Virtual environment configured.
-* Setup script executed successfully via `bin/setup.sh`.
+* Python version: `3.9.x`
+* Virtual environment name: `backend-songs-venv`
+* Setup script execution confirmed via successful running of `bin/setup.sh`.
